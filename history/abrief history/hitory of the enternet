@@ -27,7 +27,7 @@
        <p>Marc Andereessen added an image tag to HTML and founded Netscape - 1993</p>
        <img src="-marc-andreessen.jpg" alt="marc" width="500px">
        <p>During the 90’s there were browser wars and HTML was becoming fragmented. TBL created w3c. <a href=(https://www.w3.org/) to maintain HTML standards.>
-        <img src="12-w3c.png" width="500px"
+        <img src="12-w3c.png" width="500px">
         <p>Version</p>
         <ul>HTML 3.2 -1997
             HTML 4.01 - 1999
